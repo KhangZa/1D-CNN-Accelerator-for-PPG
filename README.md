@@ -17,13 +17,13 @@ This repository contains the RTL implementation and software co-design of a **1D
 ## 🛠️ Tools & Technologies
 - **Hardware Description:** Verilog HDL, VHDL
 - **Software Verification & Modeling:** C++, Python
-- **EDA/Synthesis Tools:** Xilinx Vivado / Vitis HLS
+- **EDA/Synthesis Tools:** Xilinx Vivado / Vitis HLS 2022.2
 - **Target Platform:** Xilinx FPGA
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-Make sure you have Xilinx Vivado / Vitis HLS installed, along with a C++ compiler (GCC) and Python 3.x for testbench execution and data preprocessing.
+Make sure you have Xilinx Vivado / Vitis HLS installed, along with a C++ compiler (GCC) and Python 3.12 for testbench execution and data preprocessing.
 
 ### Running the Project
 1. Clone this repository:
